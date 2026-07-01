@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0039/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 婆藪槃豆法師傳
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2049.xml
+    old_id: T50n2049
+hash: sha256:5f14c8ed42ebbc83be60823526cf230e0d6f7a821fc8fd45125b9e039dd101cb
