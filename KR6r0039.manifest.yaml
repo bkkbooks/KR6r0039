@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0039_000.yaml, hash: 'sha256:5f14c8ed42ebbc83be60823526cf230e0d6f7a821fc8fd45125b9e039dd101cb'}
-  - {seq: 1, filename: KR6r0039_001.yaml, hash: 'sha256:0325bae970c5cf7bbd87d7528793dfd24cc8ac67c62d739f47d0894c70073f0a'}
+  - {seq: 1, filename: KR6r0039_001.yaml, hash: 'sha256:1e89e5d28374996b10d063c359b8b5df3eb106d77437eb951986746609ae05b3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0039_001.markers.yaml, hash: 'sha256:fc1c7aaf6108f870af71a469dac282d335c045832fe735c5c0a858374f237520'}
+  - {seq: 0, role: markers, filename: assets/KR6r0039_000.markers.yaml, hash: 'sha256:35a1c29b799a834a8aef64a6d29f09ec068016c38da026446fec9fb9a6aa939f'}
+  - {seq: 1, role: markers, filename: assets/KR6r0039_001.markers.yaml, hash: 'sha256:6d017a024fbd16af0a0a263282eb7f647363d9f16e75a3b6ba46c16c8e2d176b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 婆藪槃豆法師傳
   type: juan
   level: 1
-hash: sha256:5035113947cb764fb7382a6e24de255c152b4f0ba1ed0e72572f76d80faa8361
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:56a5d6dfbaffc0aace6e94331e630b9cb60a5a8d61a4f7a7797ef5186e58d1de
